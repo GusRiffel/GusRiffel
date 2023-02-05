@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am proud to announce that I will be graduating this year with a degree in Computing and I am eager to apply my skills and knowledge in the real-world environment.  
+I am interested in an entry-level software engineer position. 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GusRiffel&layout=compact"/>
 
